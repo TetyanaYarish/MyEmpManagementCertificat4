@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEmpManagementUI", "MyEmpManagementUI\MyEmpManagementUI.csproj", "{0AC5DE8F-E763-48DD-8C0F-CDB91122C991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyEmpManagementLogic", "MyEmpManagementLogic\MyEmpManagementLogic.csproj", "{BDA24920-93E6-4760-A4D3-B8B5A260E9C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC5DE8F-E763-48DD-8C0F-CDB91122C991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC5DE8F-E763-48DD-8C0F-CDB91122C991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC5DE8F-E763-48DD-8C0F-CDB91122C991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC5DE8F-E763-48DD-8C0F-CDB91122C991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDA24920-93E6-4760-A4D3-B8B5A260E9C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA24920-93E6-4760-A4D3-B8B5A260E9C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA24920-93E6-4760-A4D3-B8B5A260E9C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA24920-93E6-4760-A4D3-B8B5A260E9C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29505EE-86CF-4437-97F7-6E9F3D5879E3}
+	EndGlobalSection
+EndGlobal
